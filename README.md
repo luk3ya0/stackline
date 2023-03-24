@@ -7,7 +7,11 @@
   </a>
 </p>
 
-**Note**: Please notice the yabai path in conf.lua
+**Note**
+
+1. Please notice the yabai path in conf.lua
+
+2. Hammerspoon and WindowServer may cause high memory usage, beacause of opening too many applications
 
 > Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 
