@@ -7,6 +7,8 @@
   </a>
 </p>
 
+**Note**: Please notice the yabai path in conf.lua
+
 > Visualize yabai window stacks on macOS. Works with yabai & hammerspoon.
 
 **Current status**
